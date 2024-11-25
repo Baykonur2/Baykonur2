@@ -1,0 +1,44 @@
+/* Стили для фона и шрифта */
+body {
+    background-color: #2F4F4F;
+    font-family: 'Russo One', sans-serif;
+    color: #D3D3D3;
+    margin: 20px;
+}
+
+/* Стили для заголовков */
+h1 {
+    color: #FFD700;
+    font-size: 2em;
+    text-align: center;
+}
+
+/* Стили для ссылок */
+a {
+    color: #1E90FF;
+    text-decoration: none;
+}
+
+/* Стили для изображений */
+img {
+    border: 2px solid #ddd;
+    border-radius: 8px;
+    padding: 5px;
+}
+
+/* Стили для таблицы */
+table {
+    border-collapse: collapse;
+    width: 100%;
+}
+
+th, td {
+    padding: 10px;
+    border: 1px solid #ccc;
+}
+
+/* Стили для аудио плеера */
+audio {
+    display: block;
+    margin: 20px 0;
+}
